@@ -1,16 +1,4 @@
-CNN for kidney Cancer detection
-
-#PREPARE for intro
-- ML in Cancer Detection
-- Why DL (and CNN)?
-- Why FPGAs?
-- Lit Survey (inference, tools, RNN & CNN)
-- preprocessing, CNN layers, training, and accuracy, converting it into HDL Verilog code via HLS4ML and implementing it on Vivado
-
-
-#understand code gpt
-#add uploaad and mean lines
-
+#CNN for kidney Cancer detection
 
 import zipfile
 import os
